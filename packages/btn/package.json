@@ -1,6 +1,6 @@
 {
   "name": "@ziyi2/button",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "button component",
   "main": "lib/index.common.js",
   "author": "ziyi2",

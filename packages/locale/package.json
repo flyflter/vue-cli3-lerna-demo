@@ -7,5 +7,6 @@
  "license": "ISC",
  "dependencies": {
   "deepmerge": "^1.5.2"
- }
+ },
+ "gitHead": "e479d1f79df3cf9ac6c91aa888eeba9fed3c8c54"
 }

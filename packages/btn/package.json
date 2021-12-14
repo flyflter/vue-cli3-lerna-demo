@@ -17,5 +17,6 @@
     "eslint-plugin-vue": "^5.0.0",
     "lerna": "^3.13.1",
     "vue-template-compiler": "^2.5.21"
-  }
+  },
+  "gitHead": "e479d1f79df3cf9ac6c91aa888eeba9fed3c8c54"
 }
